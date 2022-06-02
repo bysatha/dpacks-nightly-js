@@ -1,7 +1,8 @@
 // ©2022 Nilvin Sathnindu Kottage - All Rights Reserved
 // E-mail: devbysatha@gmail.com
 
-const API_URL = 'http://localhost:8080';
+// const API_URL = 'http://localhost:8080';
+const API_URL = 'https://dpacks-nightly-server.herokuapp.com';
 
 // Login view
 const hash = window.location.hash.substr(1);
