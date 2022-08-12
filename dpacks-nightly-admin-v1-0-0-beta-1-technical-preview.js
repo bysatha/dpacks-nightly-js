@@ -41,7 +41,7 @@ if (hash === "dpacks") {
             '<br/>' +
             '<button onclick="dpacksLogin()" id="dpacks-login-btn">Login</button>' +
             '<br/>' +
-            '<a href="https://dpacks-nightly.netlify.app/forgot" class="dpacks_forgot_password">Forgot Password?</a>' +
+            '<a href="https://dpacks.space/forgot" class="dpacks_forgot_password">Forgot Password?</a>' +
             '<div style="width: 100%;" class="con-mid dpacks_login_footer">' +
             '<p class="dpacks_copyright_text">' +
             '<span>©' + new Date().getFullYear() + ' DPACKS TECHNOLOGY - </span>' +
@@ -402,7 +402,7 @@ function admin() {
         '<div class=\"dpacks_nav_content con-mid\">' +
         '<a class=\"dpacks_nav_content_a con-mid\" href=\"https://gitcoin.co/tip?username=sathninduk\">💰</a>' +
         '<a class=\"dpacks_nav_content_a con-mid\" href=\"\" onclick=\"allJSave()\">💾</a>' +
-        '<a class=\"dpacks_nav_content_a con-mid\" href=\"https://dpacks-nightly.netlify.app/login\">🛠</a>' +
+        '<a class=\"dpacks_nav_content_a con-mid\" href=\"https://dpacks.space/login\">🛠</a>' +
         '<a class=\"dpacks_nav_content_a con-mid\" onclick=\"hiddenElementsList()\" href=\"\">🙈</a>' +
         '<a class=\"dpacks_nav_content_a con-mid\" href=\"\" onclick="dpacksLogOut()">👋️</a>' +
         '</div>';
